@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+  /* error squiggles */
+  "editorError.foreground": "#ff5100",
+
+  /* warning squggles */
+  "editorWarning.foreground": "#35ffab",
+
+  /* info squiggles */
+  "editorInfo.foreground": "#35ffab00"
+}
+}
